@@ -1,0 +1,5002 @@
+[
+    {
+        "Date": "2/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Sánchez",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 695.92,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/6/2021",
+        "Year": 2021,
+        "Month": "jun",
+        "Customer": "Juan Ramos",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 706.24,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "1/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Carrasco",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 868.02,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "22/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Nieto",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 797.22,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "25/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Carrasco",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 740.41,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "30/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Ramos",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 465.06,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "22/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Gil",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 568.22,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "8/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Nieto",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 819.26,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "13/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Medina",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 436.8,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Ramos",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 901.92,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Carrasco",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 475.32,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "13/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan Carrasco",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 699.99,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "16/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Ortiz",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 333.93,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan León",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 571.61,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "15/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Sanz",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 942.05,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Nieto",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 466.94,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "8/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Nieto",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 653.49,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "21/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Sanz",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 713.26,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "15/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Pérez",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 964.66,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Herrera",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 827.87,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "1/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Carrasco",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 830.2,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "22/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Cortés",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 873.01,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "26/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Sánchez",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 808.61,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "4/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Pastor",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 534.95,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "17/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Navarro",
+        "Community": "Madrid",
+        "Product": "Product C",
+        "Value": 339.27,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "31/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Lara",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 601.52,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "13/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Sánchez",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 948.9,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "3/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Sánchez",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 454.77,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "15/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Pastor",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 990.17,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "28/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Navarro",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 559.76,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "11/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Romero",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 341.9,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "16/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Pérez",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 897.77,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "17/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Márquez",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 639.3,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "14/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Medina",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 998.74,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "8/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Sánchez",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 692.67,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "7/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan Blanco",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 302.2,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "27/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Ortiz",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 888.54,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "9/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Pérez",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 898.45,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "27/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Cortés",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 561.52,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "7/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Márquez",
+        "Community": "Madrid",
+        "Product": "Product C",
+        "Value": 528.84,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "2/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Vega",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 759.52,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "19/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Ramos",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 327.97,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/3/2022",
+        "Year": 2022,
+        "Month": "mar",
+        "Customer": "Juan Medina",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 935.66,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "20/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Vázquez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 863.25,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "1/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Medina",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 445.8,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "27/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Muñoz",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 385.01,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "28/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Vega",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 833.19,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "6/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Muñoz",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 622.11,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "29/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Muñoz",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 350.06,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "16/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Ortiz",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 586.99,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Delgado",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 830.69,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "23/1/2019",
+        "Year": 2019,
+        "Month": "jan",
+        "Customer": "Juan Ortiz",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 848.68,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan León",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 361.0,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "7/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Ibáñez",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 842.7,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "16/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Ortiz",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 923.65,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "10/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Ibáñez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 879.16,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Nieto",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 886.96,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "21/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Lara",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 771.6,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "9/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Nieto",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 363.72,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "13/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan López",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 840.44,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "17/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Gil",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 934.94,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "4/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Vega",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 426.72,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "16/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Muñoz",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 622.94,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "21/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Lara",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 685.89,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "5/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Ortega",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 938.57,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "15/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Sánchez",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 322.58,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "14/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Delgado",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 747.7,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "25/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Márquez",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 704.86,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "9/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan López",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 915.72,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "22/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Medina",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 852.56,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "13/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Ortega",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 393.5,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "16/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Sanz",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 542.55,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "30/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Pérez",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 306.82,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "11/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Pastor",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 480.38,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "17/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Ruiz",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 686.93,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "21/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Gómez",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 787.83,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "6/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Pastor",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 487.21,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "10/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan Torres",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 907.88,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "16/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Vega",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 482.54,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "26/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Ibáñez",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 974.61,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "19/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Muñoz",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 494.03,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "19/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Vega",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 357.78,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "31/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Pérez",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 800.89,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "19/1/2019",
+        "Year": 2019,
+        "Month": "jan",
+        "Customer": "Juan León",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 404.71,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "26/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Lara",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 326.06,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "8/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Muñoz",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 324.76,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "21/3/2020",
+        "Year": 2020,
+        "Month": "mar",
+        "Customer": "Juan Castillo",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 966.83,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "6/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Carrasco",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 796.17,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "1/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Carrasco",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 363.34,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "28/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Ruiz",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 751.61,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "4/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan Márquez",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 317.69,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "21/1/2020",
+        "Year": 2020,
+        "Month": "jan",
+        "Customer": "Juan Ruiz",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 587.21,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "20/3/2022",
+        "Year": 2022,
+        "Month": "mar",
+        "Customer": "Juan López",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 628.26,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "11/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Gómez",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 787.79,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "6/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Pérez",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 338.18,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "1/8/2019",
+        "Year": 2019,
+        "Month": "aug",
+        "Customer": "Juan Romero",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 765.64,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Pérez",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 830.15,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "9/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Gil",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 567.34,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "27/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Sánchez",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 580.9,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "13/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan López",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 925.42,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "10/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Vázquez",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 969.25,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "13/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Pastor",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 817.6,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "8/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Herrera",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 389.52,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "19/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Torres",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 526.11,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "1/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Vázquez",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 664.35,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Pérez",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 937.54,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "30/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Gómez",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 958.24,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "2/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Ortega",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 747.86,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "10/3/2022",
+        "Year": 2022,
+        "Month": "mar",
+        "Customer": "Juan Lara",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 688.57,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "30/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Sanz",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 967.8,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "24/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Gómez",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 356.18,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "8/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Ramos",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 374.92,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "19/6/2021",
+        "Year": 2021,
+        "Month": "jun",
+        "Customer": "Juan Romero",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 422.62,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "7/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Navarro",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 832.26,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "1/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Ramos",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 685.91,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "20/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Ortiz",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 385.72,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "14/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Muñoz",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 711.1,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "24/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Cortés",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 391.68,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "10/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Torres",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 781.43,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "14/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Pérez",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 422.32,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "17/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Herrera",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 889.0,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "28/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Gómez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 421.54,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "10/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Lara",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 767.7,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/3/2022",
+        "Year": 2022,
+        "Month": "mar",
+        "Customer": "Juan Ortiz",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 815.16,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Romero",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 766.56,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "28/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Cortés",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 960.84,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "13/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Pérez",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 509.76,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "6/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Domínguez",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 346.33,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "5/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Sanz",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 627.94,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "20/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan León",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 600.81,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "24/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Lara",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 545.04,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "1/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan Blanco",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 882.78,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "19/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan León",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 639.91,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "24/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Márquez",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 926.25,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Herrera",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 568.6,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Cortés",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 448.8,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "27/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Domínguez",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 364.49,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "5/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Ortega",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 735.86,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Cortés",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 479.37,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "1/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Vázquez",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 447.15,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "27/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Muñoz",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 802.83,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Herrera",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 721.12,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "19/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Torres",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 608.52,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "22/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Romero",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 955.88,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "15/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Pastor",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 733.97,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "13/1/2020",
+        "Year": 2020,
+        "Month": "jan",
+        "Customer": "Juan Cortés",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 930.02,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "27/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Lara",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 345.93,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "14/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Castillo",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 567.23,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "2/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan López",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 901.66,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "8/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Pastor",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 490.28,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "23/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Gómez",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 630.54,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "18/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Torres",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 922.75,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "7/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Delgado",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 781.6,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "27/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Pérez",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 748.0,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "26/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan López",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 535.19,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "19/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Lara",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 396.11,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "29/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Navarro",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 845.54,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "12/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Sanz",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 566.49,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "13/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Carrasco",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 475.48,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "25/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Ramos",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 746.72,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "19/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Torres",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 622.64,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "8/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan León",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 603.59,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "10/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Ibáñez",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 400.09,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "29/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Herrera",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 857.38,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "20/1/2019",
+        "Year": 2019,
+        "Month": "jan",
+        "Customer": "Juan Ortega",
+        "Community": "Madrid",
+        "Product": "Product C",
+        "Value": 520.99,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "3/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Ibáñez",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 743.1,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "18/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Lara",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 719.65,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "30/3/2020",
+        "Year": 2020,
+        "Month": "mar",
+        "Customer": "Juan Lara",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 329.41,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "1/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Pastor",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 780.02,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "3/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Nieto",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 714.31,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "5/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Ruiz",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 730.79,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "28/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Carrasco",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 923.29,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "24/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan López",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 707.05,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "14/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Gómez",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 950.22,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "7/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Ortega",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 484.53,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "8/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Nieto",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 330.63,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "29/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Gil",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 557.42,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "16/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Ortiz",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 702.25,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "17/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Lara",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 566.62,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "30/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Ramos",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 910.44,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "12/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan León",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 659.12,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "11/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Vázquez",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 716.31,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "20/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Ortega",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 576.39,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "27/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Lara",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 410.06,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "24/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Sanz",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 960.48,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "9/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Romero",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 775.12,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "21/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan López",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 793.56,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "5/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Nieto",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 544.62,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "4/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Medina",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 616.23,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "9/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Navarro",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 864.48,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "23/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Ortega",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 587.12,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "10/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Pastor",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 305.51,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "5/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Blanco",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 872.9,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Muñoz",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 633.73,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "17/6/2021",
+        "Year": 2021,
+        "Month": "jun",
+        "Customer": "Juan Lara",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 372.47,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "24/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan León",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 984.26,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "28/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Gil",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 600.24,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "24/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Vega",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 582.69,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "7/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Nieto",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 802.64,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "10/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Ramos",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 687.37,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "11/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Márquez",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 903.81,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "5/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Blanco",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 319.54,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "22/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Herrera",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 663.8,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "4/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Gil",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 386.78,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "31/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Medina",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 817.56,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "26/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Navarro",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 417.26,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "1/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Gil",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 318.29,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "17/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Ortega",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 865.17,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "14/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Pastor",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 648.55,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "25/3/2020",
+        "Year": 2020,
+        "Month": "mar",
+        "Customer": "Juan Sanz",
+        "Community": "Madrid",
+        "Product": "Product C",
+        "Value": 674.58,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "1/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Carrasco",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 526.54,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "25/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan Pérez",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 969.4,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "26/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Gil",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 618.94,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "30/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Romero",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 994.34,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "13/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Torres",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 426.03,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "4/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Herrera",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 767.3,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "27/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Gil",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 820.15,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "18/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Nieto",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 923.52,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "4/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Navarro",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 493.11,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "12/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Blanco",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 788.03,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "6/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Lara",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 467.19,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "15/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Ramos",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 663.56,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "30/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Lara",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 552.96,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "10/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan López",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 805.44,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "2/8/2019",
+        "Year": 2019,
+        "Month": "aug",
+        "Customer": "Juan Muñoz",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 830.72,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "19/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Blanco",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 718.22,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "21/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan Gil",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 827.05,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "30/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Muñoz",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 706.4,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "7/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Torres",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 987.85,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "1/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan Gil",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 921.97,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "29/6/2021",
+        "Year": 2021,
+        "Month": "jun",
+        "Customer": "Juan Romero",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 794.87,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "30/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Domínguez",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 327.9,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Ruiz",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 603.18,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "25/8/2019",
+        "Year": 2019,
+        "Month": "aug",
+        "Customer": "Juan Navarro",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 727.69,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "9/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Sánchez",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 700.64,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "2/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Ortiz",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 900.58,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "22/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Romero",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 857.18,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "11/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Ruiz",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 329.27,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "22/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Ortiz",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 479.31,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Vega",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 843.67,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "24/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Vázquez",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 904.27,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Ortega",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 393.04,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "27/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Delgado",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 637.79,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "28/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Sanz",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 637.91,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "7/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Vega",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 833.98,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "15/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Medina",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 999.34,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "18/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Pérez",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 948.31,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "15/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Nieto",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 969.99,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "29/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Ortega",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 915.05,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "2/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Sánchez",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 932.47,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Vázquez",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 435.76,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "27/8/2019",
+        "Year": 2019,
+        "Month": "aug",
+        "Customer": "Juan Márquez",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 855.24,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Gómez",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 371.65,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "24/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Delgado",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 816.02,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "31/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Lara",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 374.61,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Márquez",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 385.05,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "18/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Carrasco",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 847.41,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "30/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Herrera",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 428.03,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "17/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Carrasco",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 784.54,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Ibáñez",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 346.59,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "29/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Medina",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 805.11,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "18/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Ruiz",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 313.59,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "18/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Gómez",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 966.73,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "6/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Ortega",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 905.07,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "7/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Medina",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 934.43,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "19/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Lara",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 732.52,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "25/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Romero",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 384.04,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "25/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Gil",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 759.95,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "23/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Navarro",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 358.34,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "11/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan López",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 492.7,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "15/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Navarro",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 892.05,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Gómez",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 449.94,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "27/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Ruiz",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 417.54,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Ortiz",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 814.05,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Carrasco",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 518.64,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "18/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Romero",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 497.43,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "8/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Blanco",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 450.04,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "29/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Carrasco",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 902.36,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "26/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Gómez",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 875.32,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "19/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Lara",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 945.48,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "28/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Pérez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 903.69,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "27/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Carrasco",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 701.1,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "12/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Lara",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 409.11,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "26/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Pérez",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 671.4,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Ibáñez",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 397.93,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "21/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Ruiz",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 720.72,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "1/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Márquez",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 936.49,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "16/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan León",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 520.82,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "14/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Delgado",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 972.5,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "8/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Carrasco",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 755.2,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "11/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Torres",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 833.53,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "31/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Romero",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 356.06,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "15/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Ibáñez",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 601.78,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "30/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Ibáñez",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 978.35,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "6/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan León",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 952.67,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "5/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Romero",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 921.31,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "17/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Romero",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 388.3,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Navarro",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 574.11,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "14/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Blanco",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 530.55,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "7/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Navarro",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 715.9,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "25/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Márquez",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 667.95,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "8/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Herrera",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 597.89,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "27/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Pérez",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 339.26,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "29/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Pérez",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 946.35,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "25/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Medina",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 482.67,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "6/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Vázquez",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 876.77,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Ortega",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 644.12,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "26/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Ruiz",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 375.29,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "26/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Ortiz",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 790.5,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Navarro",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 624.76,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "12/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan León",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 749.0,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "12/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Ortiz",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 939.92,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "18/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Ibáñez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 761.06,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "30/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Cortés",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 483.26,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "29/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan Muñoz",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 564.35,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "15/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Delgado",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 887.55,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "30/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Ruiz",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 377.14,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "5/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Pastor",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 476.57,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Lara",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 698.66,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "30/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Vega",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 989.93,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "20/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Navarro",
+        "Community": "Galicia",
+        "Product": "Product D",
+        "Value": 625.16,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "12/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Delgado",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 374.93,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "12/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Medina",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 831.85,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "14/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Nieto",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 957.95,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "2/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Cortés",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 874.03,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "19/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Márquez",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 386.73,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "23/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Ruiz",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 674.59,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "2/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Vázquez",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 508.62,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "28/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Lara",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 771.5,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "19/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Sánchez",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 854.4,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "21/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Nieto",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 930.97,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Vega",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 807.82,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "30/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Domínguez",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 785.59,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "21/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Nieto",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 650.83,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Nieto",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 657.42,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "23/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Pérez",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 502.58,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "22/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Sanz",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 421.03,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "5/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Ortiz",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 466.3,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "9/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Ortiz",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 824.03,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "19/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Márquez",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 680.67,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "4/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan León",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 942.24,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Medina",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 543.57,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "18/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan López",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 988.54,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "10/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Gil",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 307.68,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "3/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Castillo",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 759.59,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "11/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Romero",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 758.51,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "2/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Herrera",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 796.67,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "3/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan León",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 381.5,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "17/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Lara",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 461.41,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "1/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Márquez",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 451.54,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "26/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Romero",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 350.94,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "1/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Herrera",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 970.27,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "15/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Medina",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 738.63,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Blanco",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 769.9,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "9/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Ruiz",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 613.07,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "11/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Domínguez",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 632.04,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "10/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Castillo",
+        "Community": "Madrid",
+        "Product": "Product C",
+        "Value": 507.98,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "22/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Pérez",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 671.87,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Ramos",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 493.77,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "27/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Pastor",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 846.67,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/1/2020",
+        "Year": 2020,
+        "Month": "jan",
+        "Customer": "Juan Blanco",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 920.77,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "31/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Ruiz",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 379.23,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "27/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Medina",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 970.13,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "24/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Blanco",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 431.0,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "9/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Vázquez",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 523.68,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "5/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan López",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 810.88,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "17/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Cortés",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 809.07,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "28/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Ortiz",
+        "Community": "Murcia",
+        "Product": "Product A",
+        "Value": 736.59,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "5/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Gómez",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 871.45,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Cortés",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 953.8,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "29/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Castillo",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 585.09,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "1/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan León",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 721.83,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "13/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Ortiz",
+        "Community": "Cataluña",
+        "Product": "Product C",
+        "Value": 850.96,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "9/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Muñoz",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 885.02,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "2/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Pastor",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 887.73,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "11/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Márquez",
+        "Community": "País Vasco",
+        "Product": "Product A",
+        "Value": 948.05,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "8/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Nieto",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 857.96,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "18/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Márquez",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 679.28,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "8/8/2022",
+        "Year": 2022,
+        "Month": "aug",
+        "Customer": "Juan Torres",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 386.6,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "20/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Vázquez",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 704.47,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "7/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Medina",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 341.94,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "27/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Vázquez",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 601.29,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "28/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Romero",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 734.63,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "1/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Muñoz",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 871.66,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "13/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Sánchez",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 815.87,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "26/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Domínguez",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 891.9,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "6/8/2019",
+        "Year": 2019,
+        "Month": "aug",
+        "Customer": "Juan Muñoz",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 518.19,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "6/1/2019",
+        "Year": 2019,
+        "Month": "jan",
+        "Customer": "Juan León",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 402.49,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "2/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Cortés",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 574.51,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "30/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Delgado",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 651.41,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "27/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Torres",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 317.87,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "22/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Gómez",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 884.42,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "27/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Nieto",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 580.93,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "6/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Pastor",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 495.05,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "3/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Ramos",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 841.33,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Medina",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 691.5,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "1/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Pérez",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 688.52,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "24/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan León",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 419.85,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "3/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Torres",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 832.65,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "17/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Ibáñez",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 498.23,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "28/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Navarro",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 338.57,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "19/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Romero",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 887.54,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "16/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Castillo",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 601.27,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "7/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Ortiz",
+        "Community": "Murcia",
+        "Product": "Product D",
+        "Value": 479.85,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "16/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Blanco",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 914.61,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "29/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Cortés",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 472.57,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "9/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Muñoz",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 952.21,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "3/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Muñoz",
+        "Community": "Cataluña",
+        "Product": "Product A",
+        "Value": 654.75,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "1/10/2021",
+        "Year": 2021,
+        "Month": "oct",
+        "Customer": "Juan Ortega",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 384.5,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "5/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Muñoz",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 941.16,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "10/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Gil",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 587.58,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "10/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Carrasco",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 996.4,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/9/2022",
+        "Year": 2022,
+        "Month": "sep",
+        "Customer": "Juan Castillo",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 546.65,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "9/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Lara",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 995.28,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "17/1/2019",
+        "Year": 2019,
+        "Month": "jan",
+        "Customer": "Juan Lara",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 561.26,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "8/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Gómez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 827.48,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "9/9/2020",
+        "Year": 2020,
+        "Month": "sep",
+        "Customer": "Juan Vega",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 624.79,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "25/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Navarro",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 613.05,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "22/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Pastor",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 391.15,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "11/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Ramos",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 813.41,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "13/12/2022",
+        "Year": 2022,
+        "Month": "dec",
+        "Customer": "Juan Medina",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 703.33,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "11/11/2020",
+        "Year": 2020,
+        "Month": "nov",
+        "Customer": "Juan Domínguez",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 672.51,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "28/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Blanco",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 623.6,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "15/11/2021",
+        "Year": 2021,
+        "Month": "nov",
+        "Customer": "Juan Carrasco",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 533.7,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "3/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Sanz",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 920.89,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "23/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Sanz",
+        "Community": "Navarra",
+        "Product": "Product B",
+        "Value": 859.92,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "11/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan Márquez",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 396.28,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "23/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Castillo",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 585.34,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "13/3/2022",
+        "Year": 2022,
+        "Month": "mar",
+        "Customer": "Juan Castillo",
+        "Community": "Navarra",
+        "Product": "Product C",
+        "Value": 611.4,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "26/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Ibáñez",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 820.82,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "20/8/2020",
+        "Year": 2020,
+        "Month": "aug",
+        "Customer": "Juan Lara",
+        "Community": "Murcia",
+        "Product": "Product C",
+        "Value": 666.09,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "30/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Pastor",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 798.19,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "2/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan Cortés",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 806.64,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "1/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Nieto",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 499.01,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Torres",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 757.14,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "14/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Pastor",
+        "Community": "Aragón",
+        "Product": "Product A",
+        "Value": 776.5,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "12/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Medina",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 532.0,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "31/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Sanz",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 503.01,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "21/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan López",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 366.04,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "25/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan León",
+        "Community": "Andalucía",
+        "Product": "Product A",
+        "Value": 812.02,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "25/1/2019",
+        "Year": 2019,
+        "Month": "jan",
+        "Customer": "Juan Delgado",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 870.19,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "26/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Pastor",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 440.16,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "10/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Torres",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 809.58,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "7/12/2020",
+        "Year": 2020,
+        "Month": "dec",
+        "Customer": "Juan Muñoz",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 690.93,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "16/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Pastor",
+        "Community": "País Vasco",
+        "Product": "Product B",
+        "Value": 851.45,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "22/5/2020",
+        "Year": 2020,
+        "Month": "may",
+        "Customer": "Juan Muñoz",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 369.14,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "6/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Sánchez",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 567.09,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "19/6/2021",
+        "Year": 2021,
+        "Month": "jun",
+        "Customer": "Juan Navarro",
+        "Community": "Madrid",
+        "Product": "Product C",
+        "Value": 447.71,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "16/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Sanz",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 815.89,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "4/3/2019",
+        "Year": 2019,
+        "Month": "mar",
+        "Customer": "Juan Gil",
+        "Community": "Andalucía",
+        "Product": "Product D",
+        "Value": 835.65,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "28/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Ibáñez",
+        "Community": "Navarra",
+        "Product": "Product A",
+        "Value": 382.6,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "18/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Delgado",
+        "Community": "Aragón",
+        "Product": "Product B",
+        "Value": 668.35,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "2/2/2021",
+        "Year": 2021,
+        "Month": "feb",
+        "Customer": "Juan Medina",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 765.42,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "14/6/2019",
+        "Year": 2019,
+        "Month": "jun",
+        "Customer": "Juan Ortiz",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 685.77,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "9/5/2019",
+        "Year": 2019,
+        "Month": "may",
+        "Customer": "Juan Gómez",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 623.74,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "7/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Vega",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 716.5,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "30/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Márquez",
+        "Community": "País Vasco",
+        "Product": "Product D",
+        "Value": 303.46,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "14/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Lara",
+        "Community": "Galicia",
+        "Product": "Product C",
+        "Value": 832.89,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "3/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Muñoz",
+        "Community": "Andalucía",
+        "Product": "Product C",
+        "Value": 522.61,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "23/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Ortiz",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 658.02,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "28/4/2019",
+        "Year": 2019,
+        "Month": "apr",
+        "Customer": "Juan Delgado",
+        "Community": "Castilla y León",
+        "Product": "Product B",
+        "Value": 781.1,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "12/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Vázquez",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 500.95,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan Sanz",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 427.47,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "8/6/2022",
+        "Year": 2022,
+        "Month": "jun",
+        "Customer": "Juan Ibáñez",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 769.77,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "6/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Pérez",
+        "Community": "Castilla y León",
+        "Product": "Product C",
+        "Value": 621.77,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "3/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Pérez",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 957.44,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "22/3/2020",
+        "Year": 2020,
+        "Month": "mar",
+        "Customer": "Juan Blanco",
+        "Community": "Andalucía",
+        "Product": "Product B",
+        "Value": 573.13,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "29/9/2021",
+        "Year": 2021,
+        "Month": "sep",
+        "Customer": "Juan Muñoz",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 572.82,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "14/4/2022",
+        "Year": 2022,
+        "Month": "apr",
+        "Customer": "Juan Delgado",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 709.75,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "6/3/2022",
+        "Year": 2022,
+        "Month": "mar",
+        "Customer": "Juan Lara",
+        "Community": "País Vasco",
+        "Product": "Product C",
+        "Value": 458.72,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "31/10/2022",
+        "Year": 2022,
+        "Month": "oct",
+        "Customer": "Juan Márquez",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 966.73,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "22/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Nieto",
+        "Community": "Valencia",
+        "Product": "Product D",
+        "Value": 555.95,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "22/7/2020",
+        "Year": 2020,
+        "Month": "jul",
+        "Customer": "Juan López",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 431.8,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "6/10/2019",
+        "Year": 2019,
+        "Month": "oct",
+        "Customer": "Juan Ortega",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 358.06,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "23/6/2021",
+        "Year": 2021,
+        "Month": "jun",
+        "Customer": "Juan Vázquez",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 801.13,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "14/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan León",
+        "Community": "Navarra",
+        "Product": "Product D",
+        "Value": 904.82,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "3/4/2021",
+        "Year": 2021,
+        "Month": "apr",
+        "Customer": "Juan Ramos",
+        "Community": "Galicia",
+        "Product": "Product B",
+        "Value": 470.05,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "24/12/2021",
+        "Year": 2021,
+        "Month": "dec",
+        "Customer": "Juan Gil",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 328.9,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "17/2/2020",
+        "Year": 2020,
+        "Month": "feb",
+        "Customer": "Juan Castillo",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 720.9,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "26/10/2020",
+        "Year": 2020,
+        "Month": "oct",
+        "Customer": "Juan Ibáñez",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 352.29,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "31/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Ruiz",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 823.49,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "5/1/2021",
+        "Year": 2021,
+        "Month": "jan",
+        "Customer": "Juan López",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 521.21,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "26/1/2022",
+        "Year": 2022,
+        "Month": "jan",
+        "Customer": "Juan Vázquez",
+        "Community": "Castilla y León",
+        "Product": "Product D",
+        "Value": 650.86,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "8/11/2019",
+        "Year": 2019,
+        "Month": "nov",
+        "Customer": "Juan Pérez",
+        "Community": "Madrid",
+        "Product": "Product D",
+        "Value": 576.36,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "23/8/2021",
+        "Year": 2021,
+        "Month": "aug",
+        "Customer": "Juan Domínguez",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 461.93,
+        "PaymentMethod": "Efectivo"
+    },
+    {
+        "Date": "10/2/2022",
+        "Year": 2022,
+        "Month": "feb",
+        "Customer": "Juan Domínguez",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 891.39,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "24/2/2019",
+        "Year": 2019,
+        "Month": "feb",
+        "Customer": "Juan Vega",
+        "Community": "Valencia",
+        "Product": "Product B",
+        "Value": 484.53,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "12/7/2021",
+        "Year": 2021,
+        "Month": "jul",
+        "Customer": "Juan Vega",
+        "Community": "Valencia",
+        "Product": "Product A",
+        "Value": 992.59,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "27/11/2022",
+        "Year": 2022,
+        "Month": "nov",
+        "Customer": "Juan Navarro",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 976.38,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "25/4/2020",
+        "Year": 2020,
+        "Month": "apr",
+        "Customer": "Juan Sánchez",
+        "Community": "Aragón",
+        "Product": "Product C",
+        "Value": 352.76,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "15/6/2020",
+        "Year": 2020,
+        "Month": "jun",
+        "Customer": "Juan Castillo",
+        "Community": "Madrid",
+        "Product": "Product A",
+        "Value": 300.21,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "22/5/2021",
+        "Year": 2021,
+        "Month": "may",
+        "Customer": "Juan Torres",
+        "Community": "Murcia",
+        "Product": "Product B",
+        "Value": 922.05,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "25/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Pérez",
+        "Community": "Cataluña",
+        "Product": "Product D",
+        "Value": 487.18,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "8/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Ibáñez",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 971.92,
+        "PaymentMethod": "Tarjeta de crédito"
+    },
+    {
+        "Date": "12/7/2019",
+        "Year": 2019,
+        "Month": "jul",
+        "Customer": "Juan Carrasco",
+        "Community": "Valencia",
+        "Product": "Product C",
+        "Value": 861.06,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "6/3/2021",
+        "Year": 2021,
+        "Month": "mar",
+        "Customer": "Juan Gil",
+        "Community": "Cataluña",
+        "Product": "Product B",
+        "Value": 459.99,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "22/5/2022",
+        "Year": 2022,
+        "Month": "may",
+        "Customer": "Juan Cortés",
+        "Community": "Castilla y León",
+        "Product": "Product A",
+        "Value": 526.02,
+        "PaymentMethod": "Tarjeta de débito"
+    },
+    {
+        "Date": "20/7/2022",
+        "Year": 2022,
+        "Month": "jul",
+        "Customer": "Juan Delgado",
+        "Community": "Galicia",
+        "Product": "Product A",
+        "Value": 565.49,
+        "PaymentMethod": "Transferencia bancaria"
+    },
+    {
+        "Date": "23/12/2019",
+        "Year": 2019,
+        "Month": "dec",
+        "Customer": "Juan Gil",
+        "Community": "Aragón",
+        "Product": "Product D",
+        "Value": 468.68,
+        "PaymentMethod": "PayPal"
+    },
+    {
+        "Date": "11/9/2019",
+        "Year": 2019,
+        "Month": "sep",
+        "Customer": "Juan Ruiz",
+        "Community": "Madrid",
+        "Product": "Product B",
+        "Value": 475.46,
+        "PaymentMethod": "Transferencia bancaria"
+    }
+]
