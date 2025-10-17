@@ -41,7 +41,7 @@ export function graficos(ctx, data, tipo) {
     };
 
     return new Chart(ctx, baseConfig);
-}
+};
 
 function generarColores(n) {
     const colores = [];
@@ -58,5 +58,5 @@ function obtenerTitulo(tipo) {
         case "line": return "Cantidad Vendida por Mes";
         case "doughnut": return "Distribución por Método de Pago";
         default: return "Gráfico";
-    }
-}
+    };
+};

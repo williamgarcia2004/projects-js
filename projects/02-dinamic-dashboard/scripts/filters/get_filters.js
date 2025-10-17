@@ -17,7 +17,7 @@ export function obtener_filtros (response) {
         let clone = $template_years.cloneNode(true);
         clone.querySelector(".section-template-years-content").textContent = year;
 
-        if (index === 0) clone.querySelector(".section-template-years-content").classList.add("active")
+        if (index === 0) clone.querySelector(".section-template-years-content").classList.add("active");
 
         $fragmentYears.appendChild(clone);
     });
@@ -33,4 +33,4 @@ export function obtener_filtros (response) {
 
     document.querySelector(".section-dinamic-years").appendChild($fragmentYears);
     document.querySelector(".section-dinamic-products").appendChild($fragmentProducts);
-}
+};

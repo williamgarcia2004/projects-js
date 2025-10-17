@@ -20,10 +20,10 @@ document.addEventListener("click", (e) => {
             element.classList.remove("active");
         } else {
             element.classList.add("active");
-        }
+        };
 
         actualizarGraficos(app.data);
-    }
+    };
 });
 
 function obtenerFiltrosActivos() {
@@ -58,7 +58,7 @@ function actualizarGraficos(response) {
     app.charts.chart2 = graficos(app.ctx.chart2, facturacion_por_comunidad_autonoma, "horizontalBar"); 
     app.charts.chart3 = graficos(app.ctx.chart3, cantidad_vendida_por_mes, "line"); 
     app.charts.chart4 = graficos(app.ctx.chart4, distribucion_metodos_de_pago, "doughnut");  
-}
+};
 
 async function main() {
     const response = await query();
@@ -68,6 +68,7 @@ async function main() {
         errorSection.style.display = "flex";
         document.querySelector(".section-error-title").textContent = response;
         document.querySelector(".section-dinamic").innerHTML = "";
+        document.querySelector(".section-graphs").innerHTML = "";
         return;
     }
 
@@ -80,6 +81,6 @@ async function main() {
     app.ctx.chart4 = document.querySelector("#grafico4").getContext("2d");
 
     actualizarGraficos(response);
-}
+};
 
 main();
