@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>02 - Dinamic Dashboard</title>
+        <link rel="icon" href="https://www.pinclipart.com/picdir/big/539-5391832_clip-charts-personal-chart-icon-blue-png-download.png">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header class="header">
+            <h2 class="header-title">Dinamic dashboard</h2>
+        </header>
+
+        <section class="section">
+            <aside class="section-error">
+                <h2 class="section-error-title"></h2>
+                <img class="section-error-img" src="./assets/error-fetch.png" alt="Error fetch">
+            </aside>
+
+            <div class="section-dinamic">
+                <div class="section-dinamic-years section-templates">
+                    <template id="section-template-years">
+                        <span class="section-template-years-content section-template-content"></span>
+                    </template>
+                </div>
+
+                <div class="section-dinamic-products section-templates">
+                    <template id="section-template-products">
+                        <span class="section-template-products-content section-template-content"></span>
+                    </template>
+                </div>
+            </div>
+
+            <div class="section-graphs">
+                <canvas id="grafico1"></canvas>
+                <canvas id="grafico2"></canvas>
+                <canvas id="grafico3"></canvas>
+                <canvas id="grafico4"></canvas>
+            </div>
+        </section>
+
+        
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script type="module" src="scripts/main.js"></script>
+    </body>
+</html>
